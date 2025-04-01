@@ -58,16 +58,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* Navbar Styling */
-/* .navbar {
-    padding: 15px 0;
-}
-
-.navbar-brand {
-    font-weight: bold;
-    font-size: 1.5rem;
-} */
-
 .navbar-nav {
     justify-content: end;
     text-align: end;
